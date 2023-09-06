@@ -1,0 +1,11 @@
+Seguir con repaso de programacion Python
+
+Continuamos con las listas
+Condiciones if
+Bucle for 
+Diccionarios
+y Numpy
+puedo mostrarle ejemplo de Deep Learning
+
+
+
